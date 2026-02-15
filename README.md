@@ -1,6 +1,6 @@
-# Madlibs
+# Python Miniproj
 
-This is a madlibs game made in python
+These are some miniprojects i made in python
 <br>
 Author - Ishaan Singla
-hello
+
